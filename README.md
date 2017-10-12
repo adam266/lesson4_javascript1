@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 10th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adam Powell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning how to use basic Javascript programming fundamentals with developer tools.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+ https://adam266.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the document.getElementById() to reference and value by its Id.
+2. How to use a parseFloat() to change a String to a Float
+3. toFixed() allows you to get a a specific amount of numbers to appear after a decimal for a value.
 
